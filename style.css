@@ -1,5 +1,5 @@
 body {
-    padding: 0px;
+    padding: 2px;
     background-color: bisque;
     text-align: center;
 }
@@ -11,6 +11,7 @@ h1, h2 {
     border-radius: 5px;
     border-color: antiquewhite;
     padding: 5px;
+    margin: 2px;
 }
 
 .content {
