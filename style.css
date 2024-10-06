@@ -6,6 +6,7 @@ body {
 
 h1, h2 {
     background-color: antiquewhite;
+    display: inline;
 }
 
 .content {
@@ -19,4 +20,19 @@ h1, h2 {
 
 li {
     text-align: start;
+}
+
+
+pre code {
+    text-align: start;
+    background-color: rgb(100, 100, 100);
+    color: pink;
+    display: block;
+    word-break: break-all;
+    position: relative;
+    border-style: solid;
+    border-color:  rgb(100, 100, 100);
+    border-radius: 5px;
+    left: 17.5%;
+    width: 65%;
 }
