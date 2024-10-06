@@ -17,4 +17,4 @@ function addBlog(name, relative_path, relative=true) {
     blogs.appendChild(blog);
 }
 
-addBlog("Website Making", "website_making")
+addBlog("Making a Website", "making_a_website");
