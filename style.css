@@ -12,6 +12,7 @@ h1, h2 {
     border-color: antiquewhite;
     padding: 5px;
     margin: 2px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .content {
@@ -21,6 +22,16 @@ h1, h2 {
     width: 70%;
     position: relative;
     left: 15%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.container {
+    border-style: solid;
+    border-radius: 5px;
+    padding: 5px;
+    padding-top: 10px;
+    margin: 5px;
+    border-color: chocolate;
 }
 
 li {
@@ -59,4 +70,8 @@ nav > h3 {
 nav > h3 > a {
     text-decoration: none;
     color: cadetblue;
+}
+
+a {
+    color: cornflowerblue;
 }
