@@ -7,6 +7,10 @@ body {
 h1, h2 {
     background-color: antiquewhite;
     display: inline;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: antiquewhite;
+    padding: 5px;
 }
 
 .content {
@@ -35,4 +39,23 @@ pre code {
     border-radius: 5px;
     left: 17.5%;
     width: 65%;
+}
+
+nav {
+    text-align: start;
+    margin: 5px;
+    padding: 5px;
+}
+nav > h3 {
+    border-style: solid;
+    display: inline;
+    padding: 1px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    border-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav > h3 > a {
+    text-decoration: none;
+    color: cadetblue;
 }
