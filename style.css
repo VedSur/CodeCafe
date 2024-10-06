@@ -1,19 +1,22 @@
 body {
     padding: 0px;
     background-color: bisque;
+    text-align: center;
 }
 
-h1 {
-    text-align: center;
+h1, h2 {
     background-color: antiquewhite;
 }
 
-p {
-    text-align: center;
+.content {
     padding: 1%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: blanchedalmond;
     width: 70%;
     position: relative;
     left: 15%;
+}
+
+li {
+    text-align: start;
 }
