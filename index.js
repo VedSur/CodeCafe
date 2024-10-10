@@ -16,3 +16,5 @@ function addBlog(name, path, relative=true) {
     blog.appendChild(link_element);
     blogs.appendChild(blog);
 }
+
+addBlog("How to make a repl", "making_a_repl");
