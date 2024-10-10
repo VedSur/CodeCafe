@@ -1,5 +1,5 @@
-CodeCafé
+CodersCafé
 =======
 A blogging website.
 
-Link: [CodeCafé](https://vedsur.github.io/CodeCafe)
+Link: [CodersCafé](https://vedsur.github.io/CodeCafe)
