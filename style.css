@@ -12,6 +12,7 @@
 body {
     padding: 2px;
     background-color: var(--bg_color);
+
     text-align: center;
 }
 

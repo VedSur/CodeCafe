@@ -1,4 +1,4 @@
-Website
+CodeCafé
 =======
-Just my personal website that I use for blogging.
-Link: [My Website](https://vedsur.github.io/Website)
+
+Link: [CodeCafé](https://vedsur.github.io/Website)
